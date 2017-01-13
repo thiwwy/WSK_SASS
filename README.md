@@ -2,15 +2,15 @@
 
 Web Starter Kit with SASS to automatically change the colors
 
-##==== How to start with Web Starter Kit
+##==== How to start with Web Starter Kit + SASS
 
 0 - NodeJs should be istalled on your computer: https://nodejs.org/it/
     SASS should be installed
 
 1 - Download Web Starter Kit: https://developers.google.com/web/tools/starter-kit/
+    and go to the root
 
 2 - Command Line:
-    cd web_design_kit_folder or html+sass
     sudo npm install
     sudo npm install --global gulp-cli
     gulp serve
